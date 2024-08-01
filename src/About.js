@@ -1,7 +1,7 @@
 import './About.css'; // Tell webpack that Button.js uses these styles
 import aboutMeImage from '/Users/zahabiyahboty/visualstudiocode/my-app/src/images/nyc.jpg';
-import acai from '/Users/zahabiyahboty/visualstudiocode/my-app/src/images/acai.webp';
-
+//import acai from '/Users/zahabiyahboty/visualstudiocode/my-app/src/images/acai.webp';
+//<img src={acai} alt="ACAI" id='acai'/>
 
 export default function About() {
     return(
@@ -12,7 +12,6 @@ export default function About() {
             </p>
             <div class='layer'>
                 <img src={aboutMeImage} alt="Single Pic"  id = 'intro'/>
-                <img src={acai} alt="ACAI" id='acai'/>
             </div>
         </div>
           

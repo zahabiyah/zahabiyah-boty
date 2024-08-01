@@ -1,7 +1,7 @@
 import './Navbar.css';
-import GitHubIcon from '/Users/zahabiyahboty/visualstudiocode/my-app/src/images/githubblack.png';
-import LinkedinIcon from '/Users/zahabiyahboty/visualstudiocode/my-app/src/images/linkedin.png';
-import ResumeIcon from '/Users/zahabiyahboty/visualstudiocode/my-app/src/images/resume.png';
+import GitHubIcon from '/Users/zahabiyahboty/visualstudiocode/my-app/src/images/github.png';
+import LinkedinIcon from '/Users/zahabiyahboty/visualstudiocode/my-app/src/images/linkedinwhite.png';
+import ResumeIcon from '/Users/zahabiyahboty/visualstudiocode/my-app/src/images/resumewhite.png';
 import React, {useEffect} from 'react';
 
 const Navbar = () => {
@@ -34,7 +34,7 @@ const Navbar = () => {
           <img src={LinkedinIcon} alt="LinkedinIcon" />
         </a>
         <a href="/" className="logo">
-          <img src={GitHubIcon} alt="GithubIcon" />
+          <img src={GitHubIcon} alt="GithubIcon" className="git"/>
         </a>
       </div>
 
@@ -45,14 +45,11 @@ const Navbar = () => {
         <a href="/About" className="navBarText">
           About Me
         </a>
-        <a href="/" className="navBarText">
+        <a href="/Podcast.js" className="navBarText">
           Experiences
         </a>
         <a href="/Projects" className="navBarText">
           Projects
-        </a>
-        <a href="/Passions" className="navBarText">
-          Passions
         </a>
       </div>
     </nav>

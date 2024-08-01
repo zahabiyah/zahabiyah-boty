@@ -22,5 +22,23 @@
 .heading1{
     font-size: 20px;
     margin-left: 50px;
-    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#acai{
+    position: absolute; /* position the overlay image absolutely */
+    top: 0; /* position the overlay image at the top of the container */
+    left: 0; /* position the overlay image at the left of the container */
+    width: 15%; /* set the width of the overlay image */
+    height: 15%; /* set the height of the overlay image */
+    object-fit: cover; /* scale the overlay image to cover the container */
+    top:350px;
+    left: 150px;
+}
+
+
+.layer{
+    position: relative;
+
 }

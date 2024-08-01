@@ -1,9 +1,9 @@
 import About from "./About";
 import Navbar from "./Navbar";
 import Podcast from "./Podcast";
-import Film from "./Film";
 import Home from "./Home";
-import YoutubeEmbed from "./YoutubeEmbed";
+import Experiences from "./Experiences";
+
 
 
 function App() {
@@ -13,8 +13,7 @@ function App() {
       <Navbar/>
       <About/>
       <Podcast/>
-      <Film/>
-      <YoutubeEmbed embedId="MDm2-K1097s" />
+      <Experiences/>
 
 
     </main>

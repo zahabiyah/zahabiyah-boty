@@ -18,8 +18,6 @@ export default function Podcast() {
                 </a>
                 
             </div>
-
-
             <div id='podcastBottom'>
                 <div id='currentPlay'>
                     <div id='left'>

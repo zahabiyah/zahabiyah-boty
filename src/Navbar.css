@@ -2,7 +2,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #32678d;
+  background-color: #162963;
   padding: 0.5rem;
   z-index: 9999;
 
@@ -12,7 +12,7 @@
   position: fixed;
   top: 0;
   left: 0;
-  background-color: #32678d;
+  background-color: #162963;
   width: 100%;
   
 }
@@ -28,25 +28,41 @@
   height: 25px;
 }
 .navbar-right {
+  padding-right:20px;
   display: flex;
   align-items: center;
-  font-size: 15px;
-  font-family: 'Times New Roman', Times, serif;
+  font-size: 17px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
+
+.git{
+  border-radius: 50%;
+}
+
+
+
+
 .navBarText {
   border-radius: 50%;
   padding: 0.2rem 0.5rem;
   font-size: 0.8rem;
   position: absolute;
-  color: black;
+  color: white;
   font-weight: 800;
   text-decoration: none;
   margin-left: 1rem;
   position: relative;
+  cursor: pointer;
+  margin: auto;
+  font-size: 15px;
+  font-weight: 300;
+  transition: font-weight 250ms ease-in-out;
 }
 
   
-  
+.navBarText:hover {
+  font-weight: 900;
+}
 
 
 
@@ -64,3 +80,4 @@
     margin-bottom: 1rem; /* Add some spacing between icons */
   }
 }
+
