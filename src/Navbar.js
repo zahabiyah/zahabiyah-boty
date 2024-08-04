@@ -42,7 +42,7 @@ const Navbar = () => {
         <a href="/Home" className="navBarText">
           Home
         </a>
-        <a href="/About" className="navBarText">
+        <a href="/About.js" className="navBarText">
           About Me
         </a>
         <a href="/Podcast.js" className="navBarText">

@@ -2,6 +2,9 @@ import './About.css'; // Tell webpack that Button.js uses these styles
 import aboutMeImage from '/Users/zahabiyahboty/visualstudiocode/my-app/src/images/nyc.jpg';
 //import acai from '/Users/zahabiyahboty/visualstudiocode/my-app/src/images/acai.webp';
 //<img src={acai} alt="ACAI" id='acai'/>
+import { Animator, ScrollContainer, ScrollPage, batch, Fade, FadeIn, FadeOut, Move, MoveIn, MoveOut, Sticky, StickyIn, StickyOut, Zoom, ZoomIn, ZoomOut } from "react-scroll-motion";
+const FadeUp = batch(FadeIn(), Move(), Sticky());
+
 
 export default function About() {
     return(
@@ -14,7 +17,6 @@ export default function About() {
                 <img src={aboutMeImage} alt="Single Pic"  id = 'intro'/>
             </div>
         </div>
-          
     
     </section>
     );

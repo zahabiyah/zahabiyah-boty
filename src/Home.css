@@ -1,19 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Gluten:wght@700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap');
+
+
 #title {
     padding-top:20px;
-    font-family: initial;
+    font-family: "Gluten", sans-serif;
     font-size: 40px;
     color: white;
     font-weight: 300;
     display: inline; /* Add this property */
-
-
+    
 }
 
 #name {
     font-weight: 900;
     font-size: 70px;
     color: white;
-    font-family: initial;
+    font-family: "Rubik Mono One", monospace;
     display: inline; /* Add this property */
     text-shadow: 0px 0px 10px 10px rgb(255, 33, 33);
 }

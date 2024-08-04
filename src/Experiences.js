@@ -7,7 +7,7 @@ export default function Experiences() {
 
     return (
         <div id='experiences'>
-
+        <span>Work Experience</span>
         <div class='card'>
             <img class='cardImage' alt='ASTRI' src={ASTRI}></img>
             <div class='cardTitle'>Hardware & Software Engineering Intern</div>

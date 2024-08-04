@@ -5,7 +5,7 @@
   margin: 10px;
   text-align: center;
   max-width: 350px;
-  background-color: #000000;
+  background-color: #4240a7;
   width: 30%;
     height:500px; } 
     
@@ -46,3 +46,4 @@
   flex-wrap: wrap;
   flex-basis: 30%; 
 }
+

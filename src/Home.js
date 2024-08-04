@@ -19,10 +19,10 @@ export default function Home() {
             alignItems: 'center',
             opacity: '120%',
             overflowX: 'hidden',
-            filter: 'brightness(100%)',
+            filter: 'brightness(80%)',
         }}
         >
-            <div id='titleText'><span id = 'title'>Hello! I am</span>&nbsp;&nbsp;&nbsp;<span id="name">Zahabiyah Boty</span></div>
+            <div id='titleText'><span id = 'title'>Hello! I'm</span>&nbsp;&nbsp;&nbsp;<span id="name">Zahabiyah</span></div>
         </div>
     </div>
     );

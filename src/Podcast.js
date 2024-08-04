@@ -1,7 +1,7 @@
 import './projects.css'; 
 import logo from  '/Users/zahabiyahboty/visualstudiocode/my-app/src/images/logo.jpg'
 import spotify from  '/Users/zahabiyahboty/visualstudiocode/my-app/src/images/spotify.png'
-import playbar from  '/Users/zahabiyahboty/visualstudiocode/my-app/src/images/playButton.png'
+import playbar from  '/Users/zahabiyahboty/visualstudiocode/my-app/src/images/playbargif.gif'
 import heart from  '/Users/zahabiyahboty/visualstudiocode/my-app/src/images/heart2.webp'
 
 import { Spotify } from 'react-spotify-embed';
