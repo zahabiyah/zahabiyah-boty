@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/zahabiyah-boty/static/css/main.656d6fdb.css",
+    "main.js": "/zahabiyah-boty/static/js/main.4193426b.js",
+    "static/js/488.275c2ca8.chunk.js": "/zahabiyah-boty/static/js/488.275c2ca8.chunk.js",
+    "static/media/hk.JPG": "/zahabiyah-boty/static/media/hk.bbbd76a4f4d812100b2a.JPG",
+    "static/media/nyc.jpg": "/zahabiyah-boty/static/media/nyc.05644f3ed31a4062c6b7.jpg",
+    "static/media/logo.jpg": "/zahabiyah-boty/static/media/logo.129eccb6ae0980ab3156.jpg",
+    "static/media/meeopp.jpg": "/zahabiyah-boty/static/media/meeopp.38817dbf3e67dd6333d2.jpg",
+    "static/media/ttilogo.png": "/zahabiyah-boty/static/media/ttilogo.b4b69175e1749817649d.png",
+    "static/media/github.png": "/zahabiyah-boty/static/media/github.b42a1813cb527dd21047.png",
+    "static/media/astri.jpg": "/zahabiyah-boty/static/media/astri.3b7a9b54d10a30650067.jpg",
+    "static/media/linkedinwhite.png": "/zahabiyah-boty/static/media/linkedinwhite.f66fdd3f5f1ae4a70e00.png",
+    "static/media/resumewhite.png": "/zahabiyah-boty/static/media/resumewhite.f7e1085116fd41e0ce82.png",
+    "static/media/heart2.webp": "/zahabiyah-boty/static/media/heart2.3496a181a6db8c0457f1.webp",
+    "index.html": "/zahabiyah-boty/index.html",
+    "main.656d6fdb.css.map": "/zahabiyah-boty/static/css/main.656d6fdb.css.map",
+    "main.4193426b.js.map": "/zahabiyah-boty/static/js/main.4193426b.js.map",
+    "488.275c2ca8.chunk.js.map": "/zahabiyah-boty/static/js/488.275c2ca8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.656d6fdb.css",
+    "static/js/main.4193426b.js"
+  ]
+}
