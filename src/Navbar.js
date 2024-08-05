@@ -27,13 +27,13 @@ const Navbar = () => {
   return (
     <nav id="navbar" className={navbarClasses.join(' ')}>
       <div className="navbar-left">
-        <a href="/" className="logo">
+        <a href="https://drive.google.com/file/d/1cjlvdnEWsuMZC79HHDh5pocV9mwIh0Hv/view?usp=sharing" className="logo">
           <img src={ResumeIcon} alt="ResumeIcon" />
         </a>
         <a href="https://www.linkedin.com/in/zahabiyah-boty-803527235/" className="logo">
           <img src={LinkedinIcon} alt="LinkedinIcon" />
         </a>
-        <a href="/" className="logo">
+        <a href="https://github.com/zahabiyah" className="logo">
           <img src={GitHubIcon} alt="GithubIcon" className="git"/>
         </a>
       </div>
@@ -42,10 +42,10 @@ const Navbar = () => {
         <a href="/Home" className="navBarText">
           Home
         </a>
-        <a href="/About.js" className="navBarText">
+        <a href="/About" className="navBarText">
           About Me
         </a>
-        <a href="/Podcast.js" className="navBarText">
+        <a href="/Podcast" className="navBarText">
           Experiences
         </a>
         <a href="/Projects" className="navBarText">

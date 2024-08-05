@@ -11,7 +11,7 @@ export default function About() {
     <section id="about">
         <div id='splitImage'>
             <p class="heading1">
-            Hello! My name is Zahabiyah and I am currently a rising Sophmore at the University Of Wisconsin Madison studying Computer Science and Mathematics. I am interested in technology and seeking ways we can use to transform various social issues. 
+            Hello! My name is Zahabiyah and I am currently a rising Sophomore at the University Of Wisconsin Madison studying Computer Science and Mathematics. I am interested in technology and seeking ways we can use it to transform various social issues. 
             </p>
             <div class='layer'>
                 <img src={aboutMeImage} alt="Single Pic"  id = 'intro'/>

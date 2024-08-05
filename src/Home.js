@@ -1,5 +1,5 @@
 
-import hk from  '/Users/zahabiyahboty/visualstudiocode/my-app/src/images/hk.JPG'
+import hk from  '/Users/zahabiyahboty/visualstudiocode/my-app/src/images/hk.jpeg'
 import './Home.css'; // Tell webpack that Button.js uses these styles
 
 

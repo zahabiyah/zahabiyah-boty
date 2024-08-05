@@ -10,15 +10,10 @@ import Game from "./Game";
 function App() {
   return (
     <main>
-
       <Home/>
       <Navbar/>
       <About/>
       <Podcast/>
-      <Experiences/>
-      <Game/>
-
-
     </main>
   );
 }
