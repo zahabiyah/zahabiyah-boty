@@ -4,7 +4,7 @@ import spotify from  '/Users/zahabiyahboty/visualstudiocode/my-app/src/images/sp
 import playbar from  '/Users/zahabiyahboty/visualstudiocode/my-app/src/images/playbargif.gif'
 import heart from  '/Users/zahabiyahboty/visualstudiocode/my-app/src/images/heart2.webp'
 
-import { Spotify } from 'react-spotify-embed';
+import { Spotify } from 'react-spotify-embed';  
 
 
 export default function Podcast() {
